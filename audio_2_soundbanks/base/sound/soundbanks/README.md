@@ -67,7 +67,7 @@ Filename | Content | YT-Link| Comment
 1060379857.wem
 1060976046.wem
 1062190328.wem
-1062521678.wem
+1062521678.wem|SAMURAI Chippin' in ALT VERSION||Runtime: 3:40 different from original version, drum accellerates before the lyrics set in, lyrics start different
 1062797105.wem
 106414274.wem
 1064406020.wem
@@ -419,7 +419,7 @@ Filename | Content | YT-Link| Comment
 36785771.wem
 36883357.wem
 36906670.wem
-371789278.wem
+371789278.wem|Tinnitus, Club-Version maybe?|n.a.|Runtime: 10:18 starts similar to the other OSTed-Tinnitus-Version, but changes completly after 4:35
 373878317.wem
 373899508.wem
 37474047.wem
@@ -471,7 +471,7 @@ Filename | Content | YT-Link| Comment
 411300415.wem
 41444121.wem
 415296603.wem
-415608881.wem
+415608881.wem|"Sexytime"-Music|n.a.|Runtime: 4:15 seems to be a longened version of the intercourse-music when you hire a joytoy, slightly varied the other version.
 416003644.wem
 416302066.wem
 41767950.wem
@@ -599,7 +599,7 @@ Filename | Content | YT-Link| Comment
 521229803.wem
 521364565.wem
 521529624.wem
-525137074.wem
+525137074.wem|KILL THE MESSENGER by Rezodrone (Jason Charles Miller & Jamison Boaz) | https://www.youtube.com/watch?v=ctaipAQ_Sb0 | YT-Version is 1 sec longer
 525179568.wem
 527328031.wem
 527359887.wem
@@ -1097,7 +1097,7 @@ Filename | Content | YT-Link| Comment
 923198293.wem
 923310856.wem
 925140962.wem
-928920080.wem
+928920080.wem|"Sexytime"-Music|n.a.|Runtime: 4:04 seems to be a longened version of the intercourse-music when you hire a joytoy, slightly varied the other version.
 928983117.wem
 929842854.wem
 930573062.wem
@@ -1127,7 +1127,7 @@ Filename | Content | YT-Link| Comment
 953667302.wem
 95368841.wem
 953851695.wem
-954776920.wem
+954776920.wem|ON MY WAY TO HELL by Połoz & Tinnitus | https://www.youtube.com/watch?v=SFEYuCe5OI0 |YT-Version just seems to have a few more empty seconds
 955549986.wem
 956590722.wem
 957306104.wem
